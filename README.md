@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Sruoch Mengsrun  
 
-Computer Science student focused on backend development, system administration, and practical deployment. I also enjoy experimenting with **electronics and IoT** projects using Arduino, ESP32, and Raspberry Pi. I’m passionate about solving technical problems, building reliable services, and learning new tools to improve delivery and performance.  
+Computer Science student focused on backend development, system administration, and practical deployment. I also enjoy experimenting with electronics and IoT projects using Arduino, ESP32, and Raspberry Pi. I’m passionate about solving technical problems, building reliable services, and learning new tools to improve delivery and performance.  
 
 ---
 
 ## 🚀 Profile  
 
-I am currently studying for a Bachelor of Computer Science at the National Polytechnic Institute of Cambodia (NPIC). I have real-world experience from volunteering and internships in IT support and back-end development, with practical knowledge of server setup, database work, Docker, and basic VPS administration. I also explore **embedded systems and IoT prototyping** for fun and learning.  
+🎓 I graduated with a **Bachelor of Computer Science** from the **National Polytechnic Institute of Cambodia (NPIC)**.I have real-world experience from volunteering and internships in IT support and back-end development, with practical knowledge of server setup, database work, Docker, and basic VPS administration. I also explore embedded systems and IoT prototyping for fun and learning.  
 
 ---
 
