@@ -14,20 +14,21 @@ Welcome to my GitHub profile! I'm **SRUNNOOBIE**, a passionate developer who lov
 ## 🛠️ Technologies & Tools
 
 ```text
-Languages:  JavaScript, Python, HTML, CSS
-Frameworks: React, Node.js, Express
-Tools:      Git, VS Code, Docker
-Databases:  MongoDB, MySQL
-Cloud:      AWS, Firebase
+Languages:  JavaScript, Python, Java, C, C++, 
+Frameworks: React, Vue, Node.js, SpringBoot, Laravel
+Tools:      Git, GitHub, GitLab, VS Code, IntelliJ, Docker, Portainer, Arduino IDE
+Databases:  SQL, MySQL
+Cloud:      AWS, Firebase, Digital Ocean
 ```
 
 ## 📈 GitHub Stats
-
-![SRUNNOOBIE's GitHub stats](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MENGSRUN&layout=compact&theme=radical" alt="Top Languages" />)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MENGSRUN&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 🌟 Current Focus
 
-- Building full-stack applications
+- Building Voice assistaint Payment Project
 - Contributing to open source projects
 - Learning new frameworks and technologies
 - Improving code quality and best practices
@@ -38,14 +39,6 @@ Cloud:      AWS, Firebase
 - 📧 **Email:** [Your Email]
 - 💼 **LinkedIn:** [Your LinkedIn]
 - 🐦 **Twitter:** [Your Twitter]
-
-## 🎯 Goals for 2024
-
-- [ ] Contribute to 10+ open source projects
-- [ ] Build 5 full-stack applications
-- [ ] Learn advanced DevOps practices
-- [ ] Mentor junior developers
-- [ ] Speak at a tech conference
 
 ---
 
