@@ -22,8 +22,20 @@ Cloud:      AWS, Firebase, Digital Ocean
 ```
 
 ## 📈 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MENGSRUN&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-SpringBoot-007396?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/RaspberryPi-A22846?logo=raspberrypi&logoColor=white" />
 </p>
 
 ## 🌟 Current Focus
