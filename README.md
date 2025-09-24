@@ -1,7 +1,5 @@
 # Hi there, I'm SRUNNOOBIE! 👋
 
-## 🚀 About Me
-
 Welcome to my GitHub profile! I'm **SRUNNOOBIE**, a passionate developer who loves creating innovative solutions and exploring new technologies. I believe in continuous learning and sharing knowledge with the community.
 
 ## 💼 Portfolio Highlights
