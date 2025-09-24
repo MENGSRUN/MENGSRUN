@@ -23,7 +23,7 @@ Cloud:      AWS, Firebase
 
 ## 📈 GitHub Stats
 
-![SRUNNOOBIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=MENGSRUN&show_icons=true&theme=radical)
+![SRUNNOOBIE's GitHub stats](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MENGSRUN&layout=compact&theme=radical" alt="Top Languages" />)
 
 ## 🌟 Current Focus
 
